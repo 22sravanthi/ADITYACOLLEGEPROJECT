@@ -16,7 +16,7 @@ SECRET_KEY = 'django-insecure-4q)i!u&b@7$aoi)@o6l90557qo+d1u)xg#6qcs4*1#t=9!3i=m
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['yourdomain.com','agrifresh.azurewebsites.net','localhost']
 
 
 # Application definition
